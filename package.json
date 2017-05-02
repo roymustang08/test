@@ -1,0 +1,19 @@
+{
+  "name": "codelab",
+  "version": "0.0.1",
+  "description": "WebRTC codelab",
+  "keywords": [
+    "webrtc",
+    "codelab"
+  ],
+  "author": "webrtc",
+  "license": "MIT",
+  "dependencies": {
+    "node-static": "~0.7.1",
+    "socket.io": "~0.9.16",
+    "express": "~3.4.0"
+  },
+   "engines": {
+    "node": "4.6.1"
+  },
+}
